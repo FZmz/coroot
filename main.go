@@ -28,7 +28,7 @@ import (
 	"k8s.io/klog"
 )
 
-const Edition = "Community"
+const Edition = "Enterprise"
 
 var version = "unknown"
 
